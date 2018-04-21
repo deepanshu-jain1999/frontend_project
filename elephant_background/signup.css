@@ -1,0 +1,35 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+body{
+	background-image: url(elephant.jpg);
+}
+
+.card-header{
+	color: white;
+}
+
+.card{
+	background-color: red;
+	margin-top: 30%;
+	background: rgba(26, 24, 24, 0.7)
+}
+
+.col-auto {
+    margin-bottom: 5%;
+}
+
+.btn {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+}
+
+.login-ask{
+	color: white;
+}
+
+.login-link{
+	color: rgba(25, 168, 235);
+}
